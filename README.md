@@ -6,9 +6,13 @@ Year of employment, the employee's residence and experience, type of the job, co
 
 ## You can find answers for the following questions in the EDA and the Dashboard:
  1- Is the average salary for the same job title, the same type of employment (full-time, part-time, etc.)  and the same level of employee experience affected by the difference in the size of the company?
+ 
  2- Is the average salary for the same job title, the same type of employment, the same level of employee experience, and the same location of the company affected by the difference in the employee’s residence?
+ 
  3- Is the average salary affected by different years?
+ 
  4- Has the average remote work been affected by different years?
+ 
  5- What are the job titles with the top 10 average salaries, and what are these averages in different countries?
 
  
