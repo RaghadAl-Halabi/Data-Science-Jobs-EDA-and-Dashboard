@@ -15,4 +15,11 @@ Year of employment, the employee's residence and experience, type of the job, co
  
  5- What are the job titles with the top 10 average salaries, and what are these averages in different countries?
 
+ ## The used tools:
+**Programming language:** Python
+
+**Libraries:** pandas, seaborn, matplot
+
+**Visualising the dashboard:** Power BI
+
  
